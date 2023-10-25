@@ -1,4 +1,5 @@
-### Hello World, I am Vivi 👋<img src="[https://example.com/your-image.gif](https://giphy.com/gifs/E1w0yvMxBIv5M8WkL8)" width="200" height="200" />
+### Hello World, I am Vivi 👋<iframe src="https://giphy.com/embed/fkT57wKWNBgGd78inC" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dinosaur-dino-dinosally-fkT57wKWNBgGd78inC">via GIPHY</a></p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vivitruong&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=493)](https://git.io/streak-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivitruong&layout=compact&theme=gotham)
 
