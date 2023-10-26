@@ -1,4 +1,5 @@
-### Hello World, I am Vivi 👋 <img src="https://media.giphy.com/media/fkT57wKWNBgGd78inC/giphy.gif" width="200" height="200" />
+### Hello World, I am Vivi 👋 <img src="[https://example.com/your-image.gif](https://goldeneragrooves.s3.us-east-2.amazonaws.com/higif.gif)" width="200" height="200" />
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vivitruong&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=493)](https://git.io/streak-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivitruong&layout=compact&theme=gotham)
 
