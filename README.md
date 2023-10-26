@@ -1,4 +1,4 @@
-### Hello World, I am Vivi 👋![giphy](https://github.com/vivitruong/vivitruong/assets/103717482/b16058ff-75bc-4aa6-920d-c6cca084ae15)
+### Hello World, I am Vivi 👋
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vivitruong&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=493)](https://git.io/streak-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivitruong&layout=compact&theme=gotham)
