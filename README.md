@@ -1,4 +1,5 @@
-### Hello World, I am Vivi 👋 ![](https://komarev.com/ghpvc/?username=vivitruong&color=ff69b4)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F78ABE&random=false&width=435&lines=Hey+there%2C+World!+I+am+ViVi)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=vivitruong&color=ff69b4)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vivitruong&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=493)](https://git.io/streak-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivitruong&layout=compact&theme=gotham)
