@@ -5,7 +5,7 @@
 
 
 
-## Tech Stacks
+## Tech Stacks:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,aws,figma,github,linux,nginx,nodejs,express,postman,redux,sqlite,sequelize,)](https://skillicons.dev)
 - Based in Houston, Texas, I've been sharpening my coding skills at App Academy's Full-time Software Engineering Program. My toolkit includes JavaScript, Python, React, Redux, Node, Express, SQL, SQLAlchemy, Flask, Boostrap, Postgres and more. I've tackled a variety of projects, from full-stack web apps to algorithmic puzzles. So please check out my projects and see for yourself.
 - 🌱 I’m currently learning Solidity, Web3 technologies and AI.
