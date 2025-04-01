@@ -12,6 +12,7 @@
 - 👯 I’m looking for an entry level full stack engineer/ backend engineer/ frontend engineer position.
 - 📫 How to reach me: vivitruong1506@gmail.com.
 - ⚡ Fun fact: I love playing piano 🎹 and videography/photography so checkout my youtube chanel where I posted my piano covered songs : https://youtube.com/@vitruong1060?si=EqErjr2noyKoCSx_
+- Life updated: I took a few months off because I just have a baby little boy! But ready to comeback for the grind now! :)
   
 
 
